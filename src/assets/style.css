@@ -1,0 +1,85 @@
+
+
+body{
+    background-image: url(R.jpg);
+    height: 100%;
+    z-index: -1;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logininput{
+    border-radius: 15px;
+    height: 45px;
+    background-color: lightpink;
+    border: 1px solid lightblue;
+    width: 230px;
+}
+.loginbtn {
+    border-radius: 15px;
+    height: 45px;
+    border: 1px solid lightblue;
+    width: 230px;
+}
+.loginp {
+    border-radius: 15px;
+    height: 45px;
+    border: 1px solid lightblue;
+    width: 230px;
+    margin-left: 17px;
+}
+.navbari {
+    background-color: aqua;
+    position: fixed;
+    z-index: 1;
+    top: 0 !important;
+    overflow: hidden;
+    height: 70px;
+    width: 100%;
+}
+a {
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bolder;
+}
+.logindiv {
+    width: 350px;
+    height: 550px;
+    background-color: antiquewhite;
+    border: 1px solid antiquewhite;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.h1text{
+    font-weight: bolder;
+    color: blue;
+}
+.pfooter{
+    font-size: 30px;
+    font-weight: bold;
+}
+.pfooter1{
+    font-size: 15px;
+    font-weight: lighter;
+}
+.maincard{
+    border: 1px solid lightblue;
+}
+.addbloginpt {
+    width: 300px !important;
+    height: 50px;
+    border: 1px solid aquamarine;
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+.adblgquill{
+    background-color: aquamarine;
+    border: 1px solid aquamarine;
+}
+.addBlogBtn2 {
+    height: 42px;
+    border-radius: 5px;
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+    font-weight: bolder;
+}
